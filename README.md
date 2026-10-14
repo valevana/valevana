@@ -12,12 +12,12 @@
 
 ## 👋 About me
 
-- 🎓 Year 2 **BSc Computing Science** student at **Ulster University**, Belfast
-- 💼 Looking for a **placement from September 2027 to June 2028**
-- 🔐 Most interested in **cybersecurity** and **AI development**
-- 📈 **Funded forex and commodities trader** (The5ers, Earn2Trade). I build my own trading tools
-- 🌍 Bilingual: **English** and **Italian**
-- 🥋 Junior Italian Champion in **kickboxing** and **K-1**
+🎓 Year 2 **BSc Computing Science** student at **Ulster University**, Belfast
+💼 Looking for a **placement from September 2027 to June 2028**
+🔐 Most interested in **Cybersecurity** and **AI development**
+📈 **Funded forex and commodities trader** (The5ers, Earn2Trade). I build my own trading tools
+🌍 Bilingual: **English** and **Italian**
+🥋 Junior Italian Champion in **kickboxing** and **K-1**
 
 ## 🛠️ Tech stack
 
