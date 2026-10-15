@@ -8,7 +8,7 @@
 
 <a href="https://linkedin.com/in/valevana"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
 <a href="mailto:akshay.val.vanalli@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-<a href="https://youtu.be/9Neo5mr7hUg"><img src="https://img.shields.io/badge/Game_Demo-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF41" /></a>
+<a href="https://youtu.be/xAeYd5SrkoY"><img src="https://img.shields.io/badge/Game_Demo-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF41" /></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 - 🎓 Year 2 **BSc Computing Science** student at **[Ulster University](https://www.ulster.ac.uk)**, Belfast
 - 💼 Looking for a **placement from September 2027 to June 2028**
-- 🔐 Most interested in **Cybersecurity** and **AI Development**
+- 🔐 Most interested in **cybersecurity** and **AI development**
 - 📈 **Funded forex and commodities trader** (The5ers, Earn2Trade). I build my own trading tools
 - 🌍 Bilingual: **English** and **Italian**
 - 🥋 Junior Italian Champion in **kickboxing** and **K-1**
@@ -52,12 +52,12 @@ Responsive, accessible business website. **Lead developer** in a team of four.
 </td>
 <td width="50%" valign="top">
 
-### 🥷 Ninja Platformer
-Solo action platformer with kunai and sword combat, a HUD, explosive traps and pickups.
+### 🥷 [Ninja Platformer](https://github.com/valevana/ninja-platformer)
+Solo 3-level action platformer with kunai and sword combat, a HUD, explosive traps and pickups.
 
 <img src="https://skillicons.dev/icons?i=unreal" height="36" /> &nbsp;<img src="https://img.shields.io/badge/Blueprints-0D1117?style=flat-square&logo=unrealengine&logoColor=00FF41" />
 
-[Watch demo →](https://youtu.be/9Neo5mr7hUg)
+[Watch demo →](https://youtu.be/xAeYd5SrkoY)
 
 </td>
 </tr>
