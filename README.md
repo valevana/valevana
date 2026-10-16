@@ -4,7 +4,7 @@
 
 🎓 Computing Science @ <a href="https://www.ulster.ac.uk">Ulster University</a>, Belfast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=Interested+in+cybersecurity+%26+AI+development;Backed+by+a+Level+3+IT+diploma;5%2B+years+managing+hospitality+teams;Seeking+a+2027%2F28+placement" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=Interested+In+All+Computing+Fields;Backed+By+A+Level+3+IT+Diploma;5%2B+Years+Managing+Hospitality+Teams;Seeking+A+2027%2F28+Placement" alt="Typing intro" />
 
 <a href="https://linkedin.com/in/valevana"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
 <a href="mailto:akshay.val.vanalli@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
