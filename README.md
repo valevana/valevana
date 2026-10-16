@@ -16,10 +16,10 @@
 
 - 🎓 Year 2 **BSc Computing Science** student at **[Ulster University](https://www.ulster.ac.uk)**, Belfast
 - 💼 Looking for a **2027/28 placement**, starting **June or September 2027**
-- 🔐 Most interested in **cybersecurity** and **AI development**
-- 📈 **Forex and commodities trader**, previously funded by The5ers. I build my own trading tools
+- 🔐 Most interested in **Cybersecurity** and **AI Development**
+- 📈 **Forex and Commodities Trader**, previously funded. I build my own trading tools
 - 🌍 Bilingual: **English** and **Italian**
-- 🥋 Junior Italian Champion in **kickboxing** and **K-1**
+- 🥋 Junior Italian Champion in **Kickboxing** and **K-1**
 
 ## 🛠️ Tech stack
 
