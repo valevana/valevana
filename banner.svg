@@ -33,7 +33,7 @@
   <!-- text -->
   <text x="500" y="105" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="44" font-weight="700" fill="#00ff41" filter="url(#glow)">&gt; Akshay Valerio Vanalli<tspan>_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
   <text x="500" y="148" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="19" fill="#9dffb0" fill-opacity="0.85">Computing Science Student  |  Placement Applicant</text>
-  <text x="500" y="178" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#00ff41" fill-opacity="0.5">[ cybersecurity · AI · trading · games ]</text>
+  <text x="500" y="178" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#00ff41" fill-opacity="0.5">[ Cybersecurity · AI · Software Engineering ]</text>
 
   <!-- go-kart, top-down view, facing +x -->
   <g>
