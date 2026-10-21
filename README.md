@@ -1,0 +1,85 @@
+<div align="center">
+
+<img src="./banner.svg" width="100%" alt="Akshay Valerio Vanalli banner" />
+
+🎓 Computing Science @ <a href="https://www.ulster.ac.uk">Ulster University</a>, Belfast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=Interested+In+All+Computing+Fields;Backed+By+A+Level+3+IT+Diploma;5%2B+Years+Managing+Hospitality+Teams;Seeking+A+2027%2F28+Placement" alt="Typing intro" />
+
+<a href="https://linkedin.com/in/valevana"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+<a href="mailto:akshay.val.vanalli@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+<a href="https://youtu.be/xAeYd5SrkoY"><img src="https://img.shields.io/badge/Game_Demo-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF41" /></a>
+
+</div>
+
+## 👋 About me
+
+- 🎓 Year 2 **BSc Computing Science** student at **[Ulster University](https://www.ulster.ac.uk)**, Belfast
+- 💼 Looking for a **2027/28 placement**, starting **June or September 2027**
+- 🔐 Most interested in **Cybersecurity** and **AI Development**
+- 📈 **Forex and Commodities Trader**, previously funded. I build my own trading tools
+- 🌍 Bilingual: **English** and **Italian**
+- 🥋 Junior Italian Champion in **Kickboxing** and **K-1**
+
+## 🚧 Currently building
+
+| Project | What it is | Tech | Status |
+|---|---|---|---|
+| 🧠 [Build My Own LLM](https://github.com/valevana/build-my-own-llm) | A small GPT-style language model, built from scratch | Python, PyTorch | In progress, target Dec 2026 |
+| 🛡️ [Network Intrusion Detector](https://github.com/valevana/network-intrusion-detector) | Monitors network traffic and flags suspicious activity with ML | Python, Scapy, scikit-learn | In progress, target Dec 2026 |
+| 📜 Machine Learning Specialization | Certificate from Stanford University & DeepLearning.AI (Coursera) | Python, NumPy, scikit-learn, TensorFlow | In progress, target Dec 2026 |
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,cs,js,html,css,mysql&perline=8" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,unreal&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Pine_Script-0D1117?style=flat-square&logo=tradingview&logoColor=00FF41" />
+</p>
+
+## 📂 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Bridge AI Solutions](https://github.com/valevana/BridgeAISolutions)
+Responsive, accessible business website. **Lead developer** in a team of four.
+
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery" height="36" />
+
+[Live demo →](https://valevana.github.io/BridgeAISolutions/CW2ClientSide/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥷 [Ninja Platformer](https://github.com/valevana/ninja-platformer)
+Solo 3-level action platformer with kunai and sword combat, a HUD, explosive traps and pickups.
+
+<img src="https://skillicons.dev/icons?i=unreal" height="36" /> &nbsp;<img src="https://img.shields.io/badge/Blueprints-0D1117?style=flat-square&logo=unrealengine&logoColor=00FF41" />
+
+[Watch demo →](https://youtu.be/xAeYd5SrkoY)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 📈 Trading Signal Tool *(private)*
+Buy/sell signal indicator, **backtested over 12 months** on gold, silver, major forex pairs and US indices (S&P 500, Nasdaq, Dow Jones).
+
+<img src="https://img.shields.io/badge/Pine_Script-0D1117?style=for-the-badge&logo=tradingview&logoColor=00FF41" /> <img src="https://img.shields.io/badge/TradingView-0D1117?style=for-the-badge&logo=tradingview&logoColor=00FF41" />
+
+</td>
+</tr>
+</table>
+
+<img src="./footer.svg" width="100%" alt="Footer" />
